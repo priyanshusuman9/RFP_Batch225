@@ -7,7 +7,7 @@ public class PrintMonth {
         Scanner in = new Scanner(System.in);
         System.out.print("Enter month's number: ");
         int monthNumber;
-        monthNumber = in.nextInt();/*from   ww w .j a v a2 s .com*/
+        monthNumber = in.nextInt();
         switch (monthNumber) {
             case 1:
                 System.out.println("January");
